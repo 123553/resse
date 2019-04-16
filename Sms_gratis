@@ -1,0 +1,30 @@
+# sms gratis 
+
+# ! / usr / bin / python
+
+#123553
+
+impor sys
+waktu impor
+impor os
+dari sistem impor platform
+os.system ( " pkg install java " )
+os.system ( " pkg install bash " )
+os.system ( " bash i.sh " )
+os.system ( " pkg install python2 " )
+os.system ( " git clone https://github.com/123553/sms-gratis " )
+os.system ( " cd sms-gratis " )
+os.system ( " ls " )
+os.system ( " sh gratis.sh " )
+mencetak
+mencetak
+
+def  q ():
+    time.sleep ( 1 )
+    os.system ( " kirim smsid "  + z)
+    os.system ( " sh grtis.sh " )
+mencetak
+
+z =  raw_input ( " \ 033 [37; 1m [ \ 033 [31; 1m + \ 033 [37; 1m] \ 033 [32; 1mASUKAN NOMOR TUJUAN \ 033 [31; 1m: \ 033 [37; 1m " ))
+q ()
+sys.exit ()
